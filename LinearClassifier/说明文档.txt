@@ -1,0 +1,3 @@
+1.运行linearclassify.m
+2.修改linearclassify.m第3行、第15行、第17行（到其他数据集）
+3.运行linearclassify.m（由于随机化初始参数，每次运行结果可能稍有不同）

@@ -1,0 +1,10 @@
+查看中心点
+1.运行viewcenter.m
+
+匹配
+1.运行feature1.m
+2.运行mainmatch1.m
+
+更换模板（默认模板为101_1.tif）
+1.修改feature1.m第6行
+2.运行inter1.m
